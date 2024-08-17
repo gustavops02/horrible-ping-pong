@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "freeglut.h": "c",
+        "string.h": "c",
+        "math.h": "c",
+        "stdlib.h": "c",
+        "stdbool.h": "c",
+        "render.h": "c"
+    }
+}
